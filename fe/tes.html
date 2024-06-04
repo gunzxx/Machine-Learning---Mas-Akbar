@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const ctx = document.getElementById('myChart');
+
+        (async () => {
+            const options = {
+                method: 'GET',
+                url: 'https://real-time-finance-data.p.rapidapi.com/market-trends',
+                params: {
+                    trend_type: 'GAINERS',
+                    country: 'us',
+                    language: 'en'
+                },
+                headers: {
+                    'X-RapidAPI-Key': '98eb3681b3mshabb0bbd843b815fp122eb4jsnde563d2ec0da',
+                    'X-RapidAPI-Host': 'real-time-finance-data.p.rapidapi.com'
+                }
+            };
+            const response = await axios.request(options);
+            const data = response.data.data.trends;
+
+            console.log(response);
+            console.log(data);
+            // new Chart(ctx, {
+            //     type: 'bar',
+            //     data: {
+            //         labels: years,
+            //         datasets: [
+            //             {
+            //                 label: 'Cash from financing',
+            //                 data: data.map(row => row.cash_from_financing)
+            //             },
+            //             {
+            //                 label: 'Cash from investing',
+            //                 data: data.map(row => row.cash_from_investing)
+            //             },
+            //             {
+            //                 label: 'Cash from operation',
+            //                 data: data.map(row => row.cash_from_operations)
+            //             },
+            //         ]
+            //     }
+            // });
+        })();
+    </script>
+</body>
+
+</html>
