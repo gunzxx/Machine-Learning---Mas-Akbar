@@ -9,8 +9,9 @@ export default function CompanyList({ company }) {
             </div>
             <div className="company-detail">
                 <Link to={`/company/${company.symbol}`}><h3 title={`Lihat detail ${company.company.name}`}>{company.company.name}</h3></Link>
-                <p>Perubahan harga: {company.change}</p>
-                <p>Persentase: {company.percent}%</p>
+                <p>Harga: {company.close.toLocaleString('id-ID',{style: 'currency', currency: 'IDR'})}</p>
+                <p>Perubahan Kepemilikan: {company.change}</p>
+                <p>Perubahan Harga: {company.percent}%</p>
             </div>
         </div>
     )

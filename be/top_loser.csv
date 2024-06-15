@@ -1,0 +1,98 @@
+symbol,company,close,change,percent
+KLBF,"{'symbol': 'KLBF', 'name': 'Kalbe Farma Tbk.', 'logo': 'https://s3.goapi.io/logo/KLBF.jpg'}",1580,15,0.96
+GDST,"{'symbol': 'GDST', 'name': 'Gunawan Dianjaya Steel Tbk.', 'logo': 'https://s3.goapi.io/logo/GDST.jpg'}",101,1,1.0
+KETR,"{'symbol': 'KETR', 'name': 'Ketrosden Triasmitra Tbk.', 'logo': 'https://s3.goapi.io/logo/KETR.jpg'}",202,2,1.0
+IFII,"{'symbol': 'IFII', 'name': 'Indonesia Fibreboard Industry Tbk.', 'logo': 'https://s3.goapi.io/logo/IFII.jpg'}",200,2,1.01
+BUKK,"{'symbol': 'BUKK', 'name': 'Bukaka Teknik Utama Tbk.', 'logo': 'https://s3.goapi.io/logo/BUKK.jpg'}",990,10,1.02
+MPXL,"{'symbol': 'MPXL', 'name': 'MPX Logistics International Tbk.', 'logo': 'https://s3.goapi.io/logo/MPXL.jpg'}",99,1,1.02
+VICO,"{'symbol': 'VICO', 'name': 'Victoria Investama Tbk.', 'logo': 'https://s3.goapi.io/logo/VICO.jpg'}",95,1,1.06
+DEPO,"{'symbol': 'DEPO', 'name': 'Caturkarda Depo Bangunan Tbk.', 'logo': 'https://s3.goapi.io/logo/DEPO.jpg'}",374,4,1.08
+ALDO,"{'symbol': 'ALDO', 'name': 'Alkindo Naratama Tbk.', 'logo': 'https://s3.goapi.io/logo/ALDO.jpg'}",850,10,1.19
+UNSP,"{'symbol': 'UNSP', 'name': 'Bakrie Sumatera Plantations Tbk.', 'logo': 'https://s3.goapi.io/logo/UNSP.jpg'}",85,1,1.19
+TOTL,"{'symbol': 'TOTL', 'name': 'Total Bangun Persada Tbk.', 'logo': 'https://s3.goapi.io/logo/TOTL.jpg'}",492,6,1.23
+WINS,"{'symbol': 'WINS', 'name': 'Wintermar Offshore Marine Tbk.', 'logo': 'https://s3.goapi.io/logo/WINS.jpg'}",492,6,1.23
+AMOR,"{'symbol': 'AMOR', 'name': 'Ashmore Asset Management Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/AMOR.jpg'}",810,10,1.25
+INDX,"{'symbol': 'INDX', 'name': 'Tanah Laut Tbk', 'logo': 'https://s3.goapi.io/logo/INDX.jpg'}",81,1,1.25
+AMAG,"{'symbol': 'AMAG', 'name': 'Asuransi Multi Artha Guna Tbk.', 'logo': 'https://s3.goapi.io/logo/AMAG.jpg'}",310,4,1.31
+HOKI,"{'symbol': 'HOKI', 'name': 'Buyung Poetra Sembada Tbk.', 'logo': 'https://s3.goapi.io/logo/HOKI.jpg'}",155,2,1.31
+SMDM,"{'symbol': 'SMDM', 'name': 'Suryamas Dutamakmur Tbk.', 'logo': 'https://s3.goapi.io/logo/SMDM.jpg'}",153,2,1.32
+CEKA,"{'symbol': 'CEKA', 'name': 'Wilmar Cahaya Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/CEKA.jpg'}",1865,25,1.36
+PTMP,"{'symbol': 'PTMP', 'name': 'Mitra Pack Tbk.', 'logo': 'https://s3.goapi.io/logo/PTMP.jpg'}",142,2,1.43
+GEMS,"{'symbol': 'GEMS', 'name': 'Golden Energy Mines Tbk.', 'logo': 'https://s3.goapi.io/logo/GEMS.jpg'}",6700,100,1.52
+DEWI,"{'symbol': 'DEWI', 'name': 'Dewi Shri Farmindo Tbk.', 'logo': 'https://s3.goapi.io/logo/DEWI.jpg'}",67,1,1.52
+ASRI,"{'symbol': 'ASRI', 'name': 'Alam Sutera Realty Tbk.', 'logo': 'https://s3.goapi.io/logo/ASRI.jpg'}",131,2,1.55
+PMJS,"{'symbol': 'PMJS', 'name': 'Putra Mandiri Jembar Tbk.', 'logo': 'https://s3.goapi.io/logo/PMJS.jpg'}",128,2,1.59
+RCCC,"{'symbol': 'RCCC', 'name': 'Utama Radar Cahaya Tbk.', 'logo': 'https://s3.goapi.io/logo/RCCC.jpg'}",191,3,1.6
+MHKI,"{'symbol': 'MHKI', 'name': 'Multi Hanna Kreasindo Tbk.', 'logo': 'https://s3.goapi.io/logo/MHKI.jpg'}",122,2,1.67
+KJEN,"{'symbol': 'KJEN', 'name': 'Krida Jaringan Nusantara Tbk.', 'logo': 'https://s3.goapi.io/logo/KJEN.jpg'}",61,1,1.67
+BAIK,"{'symbol': 'BAIK', 'name': 'Bersama Mencapai Puncak Tbk.', 'logo': 'https://s3.goapi.io/logo/BAIK.jpg'}",59,1,1.72
+DGNS,"{'symbol': 'DGNS', 'name': 'Diagnos Laboratorium Utama Tbk.', 'logo': 'https://s3.goapi.io/logo/DGNS.jpg'}",232,4,1.75
+DEWA,"{'symbol': 'DEWA', 'name': 'Darma Henwa Tbk', 'logo': 'https://s3.goapi.io/logo/DEWA.jpg'}",58,1,1.75
+BSML,"{'symbol': 'BSML', 'name': 'Bintang Samudera Mandiri Lines Tbk.', 'logo': 'https://s3.goapi.io/logo/BSML.jpg'}",114,2,1.79
+INTD,"{'symbol': 'INTD', 'name': 'Inter Delta Tbk', 'logo': 'https://s3.goapi.io/logo/INTD.jpg'}",112,2,1.82
+PTPS,"{'symbol': 'PTPS', 'name': 'Pulau Subur Tbk.', 'logo': 'https://s3.goapi.io/logo/PTPS.jpg'}",111,2,1.83
+LPPS,"{'symbol': 'LPPS', 'name': 'Lenox Pasifik Investama Tbk.', 'logo': 'https://s3.goapi.io/logo/LPPS.jpg'}",55,1,1.85
+CSRA,"{'symbol': 'CSRA', 'name': 'Cisadane Sawit Raya Tbk.', 'logo': 'https://s3.goapi.io/logo/CSRA.jpg'}",432,8,1.89
+ELIT,"{'symbol': 'ELIT', 'name': 'Data Sinergitama Jaya Tbk.', 'logo': 'https://s3.goapi.io/logo/ELIT.jpg'}",107,2,1.9
+KOCI,"{'symbol': 'KOCI', 'name': 'Kokoh Exa Nusantara Tbk.', 'logo': 'https://s3.goapi.io/logo/KOCI.jpg'}",53,1,1.92
+TFAS,"{'symbol': 'TFAS', 'name': 'Telefast Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/TFAS.jpg'}",105,2,1.94
+CMNP,"{'symbol': 'CMNP', 'name': 'Citra Marga Nusaphala Persada Tbk.', 'logo': 'https://s3.goapi.io/logo/CMNP.jpg'}",1530,30,2.0
+CMRY,"{'symbol': 'CMRY', 'name': 'Cisarua Mountain Dairy Tbk.', 'logo': 'https://s3.goapi.io/logo/CMRY.jpg'}",4990,100,2.04
+AMMN,"{'symbol': 'AMMN', 'name': 'Amman Mineral Internasional Tbk.', 'logo': 'https://s3.goapi.io/logo/AMMN.jpg'}",12075,250,2.11
+TRIS,"{'symbol': 'TRIS', 'name': 'Trisula International Tbk.', 'logo': 'https://s3.goapi.io/logo/TRIS.jpg'}",188,4,2.17
+MSJA,"{'symbol': 'MSJA', 'name': 'Multi Spunindo Jaya Tbk.', 'logo': 'https://s3.goapi.io/logo/MSJA.jpg'}",272,6,2.26
+NASI,"{'symbol': 'NASI', 'name': 'Wahana Inti Makmur Tbk.', 'logo': 'https://s3.goapi.io/logo/NASI.jpg'}",180,4,2.27
+LABA,"{'symbol': 'LABA', 'name': 'Ladangbaja Murni Tbk.', 'logo': 'https://s3.goapi.io/logo/LABA.jpg'}",133,3,2.31
+APII,"{'symbol': 'APII', 'name': 'Arita Prima Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/APII.jpg'}",175,4,2.34
+SURI,"{'symbol': 'SURI', 'name': 'Maja Agung Latexindo Tbk.', 'logo': 'https://s3.goapi.io/logo/SURI.jpg'}",130,3,2.36
+IDEA,"{'symbol': 'IDEA', 'name': 'Idea Indonesia Akademi Tbk.', 'logo': 'https://s3.goapi.io/logo/IDEA.jpg'}",43,1,2.38
+IBOS,"{'symbol': 'IBOS', 'name': 'Indo Boga Sukses Tbk.', 'logo': 'https://s3.goapi.io/logo/IBOS.jpg'}",252,6,2.44
+PURI,"{'symbol': 'PURI', 'name': 'Puri Global Sukses Tbk.', 'logo': 'https://s3.goapi.io/logo/PURI.jpg'}",167,4,2.45
+TRUS,"{'symbol': 'TRUS', 'name': 'Trust Finance Indonesia Tbk', 'logo': 'https://s3.goapi.io/logo/TRUS.jpg'}",412,12,3.0
+DWGL,"{'symbol': 'DWGL', 'name': 'Dwi Guna Laksana Tbk.', 'logo': 'https://s3.goapi.io/logo/DWGL.jpg'}",102,3,3.03
+TALF,"{'symbol': 'TALF', 'name': 'Tunas Alfin Tbk.', 'logo': 'https://s3.goapi.io/logo/TALF.jpg'}",336,10,3.07
+UNVR,"{'symbol': 'UNVR', 'name': 'Unilever Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/UNVR.jpg'}",3170,110,3.59
+GEMA,"{'symbol': 'GEMA', 'name': 'Gema Grahasarana Tbk.', 'logo': 'https://s3.goapi.io/logo/GEMA.jpg'}",288,10,3.6
+AEGS,"{'symbol': 'AEGS', 'name': 'Anugerah Spareparts Sejahtera Tbk.', 'logo': 'https://s3.goapi.io/logo/AEGS.jpg'}",28,1,3.7
+PTSP,"{'symbol': 'PTSP', 'name': 'Pioneerindo Gourmet International Tbk.', 'logo': 'https://s3.goapi.io/logo/PTSP.jpg'}",865,35,4.22
+MKTR,"{'symbol': 'MKTR', 'name': 'Menthobi Karyatama Raya Tbk.', 'logo': 'https://s3.goapi.io/logo/MKTR.jpg'}",123,5,4.24
+LOPI,"{'symbol': 'LOPI', 'name': 'Logisticsplus International Tbk.', 'logo': 'https://s3.goapi.io/logo/LOPI.jpg'}",49,2,4.26
+APLI,"{'symbol': 'APLI', 'name': 'Asiaplast Industries Tbk.', 'logo': 'https://s3.goapi.io/logo/APLI.jpg'}",600,25,4.35
+BELL,"{'symbol': 'BELL', 'name': 'Trisula Textile Industries Tbk.', 'logo': 'https://s3.goapi.io/logo/BELL.jpg'}",65,3,4.84
+COAL,"{'symbol': 'COAL', 'name': 'Black Diamond Resources Tbk.', 'logo': 'https://s3.goapi.io/logo/COAL.jpg'}",21,1,5.0
+WOWS,"{'symbol': 'WOWS', 'name': 'Ginting Jaya Energi Tbk.', 'logo': 'https://s3.goapi.io/logo/WOWS.jpg'}",20,1,5.26
+BBLD,"{'symbol': 'BBLD', 'name': 'Buana Finance Tbk.', 'logo': 'https://s3.goapi.io/logo/BBLD.jpg'}",580,30,5.45
+MPIX,"{'symbol': 'MPIX', 'name': 'Mitra Pedagang Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/MPIX.jpg'}",57,3,5.56
+ESIP,"{'symbol': 'ESIP', 'name': 'Sinergi Inti Plastindo Tbk.', 'logo': 'https://s3.goapi.io/logo/ESIP.jpg'}",18,1,5.88
+MINA,"{'symbol': 'MINA', 'name': 'Sanurhasta Mitra Tbk.', 'logo': 'https://s3.goapi.io/logo/MINA.jpg'}",17,1,6.25
+SMKM,"{'symbol': 'SMKM', 'name': 'Sumber Mas Konstruksi Tbk.', 'logo': 'https://s3.goapi.io/logo/SMKM.jpg'}",50,3,6.38
+WGSH,"{'symbol': 'WGSH', 'name': 'Wira Global Solusi Tbk.', 'logo': 'https://s3.goapi.io/logo/WGSH.jpg'}",66,4,6.45
+LMAX,"{'symbol': 'LMAX', 'name': 'Lupromax Pelumas Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/LMAX.jpg'}",16,1,6.67
+SKLT,"{'symbol': 'SKLT', 'name': 'Sekar Laut Tbk.', 'logo': 'https://s3.goapi.io/logo/SKLT.jpg'}",250,16,6.84
+BKSL,"{'symbol': 'BKSL', 'name': 'Sentul City Tbk.', 'logo': 'https://s3.goapi.io/logo/BKSL.jpg'}",31,2,6.9
+DATA,"{'symbol': 'DATA', 'name': 'Remala Abadi Tbk.', 'logo': 'https://s3.goapi.io/logo/DATA.jpg'}",330,22,7.14
+AIMS,"{'symbol': 'AIMS', 'name': 'Akbar Indo Makmur Stimec Tbk', 'logo': 'https://s3.goapi.io/logo/AIMS.jpg'}",390,28,7.73
+KLIN,"{'symbol': 'KLIN', 'name': 'Klinko Karya Imaji Tbk.', 'logo': 'https://s3.goapi.io/logo/KLIN.jpg'}",13,1,8.33
+FREN,"{'symbol': 'FREN', 'name': 'Smartfren Telecom Tbk.', 'logo': 'https://s3.goapi.io/logo/FREN.jpg'}",39,3,8.33
+MYTX,"{'symbol': 'MYTX', 'name': 'Asia Pacific Investama Tbk.', 'logo': 'https://s3.goapi.io/logo/MYTX.jpg'}",51,4,8.51
+BCAP,"{'symbol': 'BCAP', 'name': 'MNC Kapital Indonesia Tbk.', 'logo': 'https://s3.goapi.io/logo/BCAP.jpg'}",25,2,8.7
+ENZO,"{'symbol': 'ENZO', 'name': 'Morenzo Abadi Perkasa Tbk.', 'logo': 'https://s3.goapi.io/logo/ENZO.jpg'}",25,2,8.7
+HALO,"{'symbol': 'HALO', 'name': 'Haloni Jane Tbk.', 'logo': 'https://s3.goapi.io/logo/HALO.jpg'}",49,4,8.89
+UDNG,"{'symbol': 'UDNG', 'name': 'Agro Bahari Nusantara Tbk.', 'logo': 'https://s3.goapi.io/logo/UDNG.jpg'}",73,6,8.96
+FISH,"{'symbol': 'FISH', 'name': 'FKS Multi Agro Tbk.', 'logo': 'https://s3.goapi.io/logo/FISH.jpg'}",6100,550,9.91
+FLMC,"{'symbol': 'FLMC', 'name': 'Falmaco Nonwoven Industri Tbk.', 'logo': 'https://s3.goapi.io/logo/FLMC.jpg'}",55,5,10.0
+BHIT,"{'symbol': 'BHIT', 'name': 'MNC Asia Holding Tbk.', 'logo': 'https://s3.goapi.io/logo/BHIT.jpg'}",22,2,10.0
+KOTA,"{'symbol': 'KOTA', 'name': 'DMS Propertindo Tbk.', 'logo': 'https://s3.goapi.io/logo/KOTA.jpg'}",11,1,10.0
+SOUL,"{'symbol': 'SOUL', 'name': 'Mitra Tirta Buwana Tbk.', 'logo': 'https://s3.goapi.io/logo/SOUL.jpg'}",10,1,11.11
+LAND,"{'symbol': 'LAND', 'name': 'Trimitra Propertindo Tbk.', 'logo': 'https://s3.goapi.io/logo/LAND.jpg'}",10,1,11.11
+AKKU,"{'symbol': 'AKKU', 'name': 'Anugerah Kagum Karya Utama Tbk.', 'logo': 'https://s3.goapi.io/logo/AKKU.jpg'}",10,1,11.11
+MBTO,"{'symbol': 'MBTO', 'name': 'Martina Berto Tbk.', 'logo': 'https://s3.goapi.io/logo/MBTO.jpg'}",89,9,11.25
+CGAS,"{'symbol': 'CGAS', 'name': 'Citra Nusantara Gemilang Tbk.', 'logo': 'https://s3.goapi.io/logo/CGAS.jpg'}",125,14,12.61
+ELTY,"{'symbol': 'ELTY', 'name': 'Bakrieland Development Tbk.', 'logo': 'https://s3.goapi.io/logo/ELTY.jpg'}",8,1,14.29
+GTRA,"{'symbol': 'GTRA', 'name': 'Grahaprima Suksesmandiri Tbk.', 'logo': 'https://s3.goapi.io/logo/GTRA.jpg'}",122,23,23.23
+CAMP,"{'symbol': 'CAMP', 'name': 'Campina Ice Cream Industry Tbk.', 'logo': 'https://s3.goapi.io/logo/CAMP.jpg'}",352,70,24.82
+UANG,"{'symbol': 'UANG', 'name': 'Pakuan Tbk.', 'logo': 'https://s3.goapi.io/logo/UANG.jpg'}",555,111,25.0
+DADA,"{'symbol': 'DADA', 'name': 'Diamond Citra Propertindo Tbk.', 'logo': 'https://s3.goapi.io/logo/DADA.jpg'}",5,1,25.0
+SBAT,"{'symbol': 'SBAT', 'name': 'Sejahtera Bintang Abadi Textile Tbk.', 'logo': 'https://s3.goapi.io/logo/SBAT.jpg'}",2,1,100.0
+MKNT,"{'symbol': 'MKNT', 'name': 'Mitra Komunikasi Nusantara Tbk.', 'logo': 'https://s3.goapi.io/logo/MKNT.jpg'}",2,1,100.0
+TAXI,"{'symbol': 'TAXI', 'name': 'Express Transindo Utama Tbk.', 'logo': 'https://s3.goapi.io/logo/TAXI.jpg'}",2,1,100.0

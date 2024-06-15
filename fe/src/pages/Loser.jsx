@@ -1,4 +1,3 @@
-import axios from "axios";
 import { useEffect, useState } from "react"
 import Loader from "../animation/Loader";
 import CompanyList from "../component/company/CompanyList";
@@ -14,7 +13,7 @@ export default function Loser() {
             try {
                 // const response = await axios.get('http://localhost:3000/api2/loser');
                 const response = await getData('top_loser');
-                const resDatas = response.data.data.results;
+                const resDatas = response.data.data;
 
                 console.log(response);
                 setCompanies(resDatas);

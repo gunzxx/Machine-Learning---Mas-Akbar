@@ -172,32 +172,41 @@
 
 
 .company-container{
+    width: 100%;
     display: flex;
-    flex-direction: column;
+    align-items: center;
     gap: 30px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background: lightskyblue;
 }
-
-.company-body-container{
+.company-container > .company-image{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .7);
+    border-radius: 10px;
+    overflow: hidden;
     display: flex;
-    gap: 30px;
-    align-items: start;
+    align-items: center;
 }
-.company-body-container > .company-image{
-    width: 300px;
-    height: 300px;
-}
-.company-body-container > .company-image > img{
-    min-width: 100%;
-    min-height: 100%;
+.company-container > .company-image > img{
     max-width: 100%;
     max-height: 100%;
-}
-.company-body-container > .company-detail{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    width: fit-content;
+    height: fit-content;
 }
 
-.content-container.company-detail-content{
-    gap: 100px;
+
+.history-container{
+    margin-bottom: 10px!;
+}
+
+.predict-container{
+    width: 100%;
+    padding: 50px;
+    background: lightskyblue;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
 }

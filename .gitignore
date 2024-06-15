@@ -1,1 +1,3 @@
 */node_modules
+be/history/*
+be/util/__pycache__

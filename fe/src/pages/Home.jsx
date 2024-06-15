@@ -1,19 +1,9 @@
-import { useEffect } from 'react';
-import axios from 'axios';
 import { Link } from 'react-router-dom';
 import stockBG from '../../images/stock-bg.jpg';
 import gainerImg from '../../images/gainer.jpg';
 import loserImg from '../../images/loser.jpg';
 
 export default function Home() {
-  useEffect(() => {
-    (async () => {
-      const response = await axios.get('http://localhost:3000/api2/gainer');
-      const resDatas = response.data.data;
-      console.log(resDatas);
-    })();
-  }, []);
-
   return (
     <>
       <div className="main-container home-container">
